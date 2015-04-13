@@ -1,4 +1,3 @@
-#!/usr/bin/python
 # Author: vortex_ape
 T = int(input())
 for t in range(0, T):
